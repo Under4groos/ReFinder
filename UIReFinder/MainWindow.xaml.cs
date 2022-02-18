@@ -58,7 +58,7 @@ namespace UIReFinder
             }
             foreach (string Directorie in Directory.GetDirectories(folder))
             {
-                files.Add(Directorie);
+                //files.Add(Directorie);
                 find_dif(Directorie);
             }
         }

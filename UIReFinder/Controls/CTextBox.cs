@@ -32,7 +32,7 @@ namespace UIReFinder.Controls
             };
             this.MouseLeave += (o, e) =>
             {
-                Keyboard.ClearFocus();
+                //Keyboard.ClearFocus();
             };
         }
     }

@@ -25,7 +25,7 @@
                     <ColumnDefinition Width="80*"/>
                 </Grid.ColumnDefinitions>
                 <Border BorderBrush="#99FFFFFF" BorderThickness="1" CornerRadius="0" Height="30" VerticalAlignment="Center"  >
-                    <Controls:CTextBox x:Name="path" Text="C:\Users\UnderKo\Downloads"  />
+                    <Controls:CTextBox x:Name="path" Text=""  />
                 </Border>
                 <Border BorderBrush="#99FFFFFF" BorderThickness="1" CornerRadius="0" Height="30" VerticalAlignment="Center"  Grid.Column="1">
                     <Controls:CTextBox x:Name="regex" Text="[0-9]+" />
