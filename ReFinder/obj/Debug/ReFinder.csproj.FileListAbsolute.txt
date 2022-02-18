@@ -1,0 +1,14 @@
+C:\Users\UnderKo\source\repos\ReFinder\ReFinder\bin\Debug\ReFinder.exe.config
+C:\Users\UnderKo\source\repos\ReFinder\ReFinder\bin\Debug\ReFinder.exe
+C:\Users\UnderKo\source\repos\ReFinder\ReFinder\bin\Debug\ReFinder.pdb
+C:\Users\UnderKo\source\repos\ReFinder\ReFinder\obj\Debug\ReFinder.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\ReFinder\ReFinder\obj\Debug\ReFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\UnderKo\source\repos\ReFinder\ReFinder\obj\Debug\ReFinder.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\ReFinder\ReFinder\bin\Debug\LibReFinder.dll
+C:\Users\UnderKo\source\repos\ReFinder\ReFinder\bin\Debug\LibReFinder.pdb
+C:\Users\UnderKo\source\repos\ReFinder\ReFinder\obj\Debug\ReFinder.csproj.CopyComplete
+C:\Users\UnderKo\source\repos\ReFinder\Compile\ReFinderConsole.exe.config
+C:\Users\UnderKo\source\repos\ReFinder\Compile\ReFinderConsole.exe
+C:\Users\UnderKo\source\repos\ReFinder\Compile\ReFinderConsole.pdb
+C:\Users\UnderKo\source\repos\ReFinder\ReFinder\obj\Debug\ReFinderConsole.exe
+C:\Users\UnderKo\source\repos\ReFinder\ReFinder\obj\Debug\ReFinderConsole.pdb

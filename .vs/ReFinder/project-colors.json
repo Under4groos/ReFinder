@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e797af62-935c-45f7-aa78-85db9860fbd4": {
+      "ProjectGuid": "e797af62-935c-45f7-aa78-85db9860fbd4",
+      "DisplayName": "ReFinder",
+      "ColorIndex": 0
+    },
+    "3cb77a67-2a78-4023-9e51-a62f6dee651a": {
+      "ProjectGuid": "3cb77a67-2a78-4023-9e51-a62f6dee651a",
+      "DisplayName": "UIReFinder",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "355bb7c0-e2e9-457f-8e7e-2994c574d453": {
+      "ProjectGuid": "355bb7c0-e2e9-457f-8e7e-2994c574d453",
+      "DisplayName": "LibReFinder",
+      "ColorIndex": 2
+    },
+    "a7118236-07b5-4dcf-b4aa-6530e8cd344f": {
+      "ProjectGuid": "a7118236-07b5-4dcf-b4aa-6530e8cd344f",
+      "DisplayName": "TestWpf",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

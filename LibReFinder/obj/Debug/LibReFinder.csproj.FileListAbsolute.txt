@@ -1,0 +1,7 @@
+C:\Users\UnderKo\source\repos\ReFinder\LibReFinder\bin\Debug\LibReFinder.dll
+C:\Users\UnderKo\source\repos\ReFinder\LibReFinder\bin\Debug\LibReFinder.pdb
+C:\Users\UnderKo\source\repos\ReFinder\LibReFinder\obj\Debug\LibReFinder.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\ReFinder\LibReFinder\obj\Debug\LibReFinder.dll
+C:\Users\UnderKo\source\repos\ReFinder\LibReFinder\obj\Debug\LibReFinder.pdb
+C:\Users\UnderKo\source\repos\ReFinder\Compile\LibReFinder.dll
+C:\Users\UnderKo\source\repos\ReFinder\Compile\LibReFinder.pdb
